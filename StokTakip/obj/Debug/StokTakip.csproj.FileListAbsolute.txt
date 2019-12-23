@@ -1,0 +1,9 @@
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.exe.config
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.exe
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\bin\Debug\StokTakip.pdb
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csprojResolveAssemblyReference.cache
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Form1.resources
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.Properties.Resources.resources
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.csproj.GenerateResource.Cache
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.exe
+C:\Users\beyzort\Desktop\StokTakip\StokTakip\obj\Debug\StokTakip.pdb
